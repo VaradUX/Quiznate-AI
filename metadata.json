@@ -1,0 +1,7 @@
+{
+  "name": "ExamGenius Admin Portal",
+  "description": "A comprehensive admin dashboard for generating, previewing, and assigning AI-powered quizzes and exams for academic, corporate, and competitive sectors.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
